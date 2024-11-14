@@ -7,4 +7,4 @@ Target Audience: Health-conscious customers, local communities, and people seeki
 
 Key Features: Easy-to-navigate product listings, online ordering, secure payments, and clear information on product sourcing and quality.
 
-
+To run this code just download the .zip file and then run into the vs code or other code runner.
